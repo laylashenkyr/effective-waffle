@@ -1,0 +1,41 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.0",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		},
+		{
+			"Name": "MIDIDevice",
+			"Enabled": true
+		},
+		{
+			"Name": "RemoteControlProtocolMIDI",
+			"Enabled": true
+		},
+		{
+			"Name": "UnrealJS",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/be751eedc4a14cc09e39945bc5a531c4"
+		},
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
+		}
+	]
+}
